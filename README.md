@@ -1,4 +1,4 @@
-# AKASHA’s Community
+# Program Management
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AkashaProject/dapp/issues)   
 
 ## About AKASHA
