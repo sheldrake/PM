@@ -1,11 +1,12 @@
 ## First and Foremost
 
-Be aware that we are looking for multifaceted people who would be genuinely happy to go beyond the scope of a single narrow job position and help us in multiple fronts. We are a distributed, multidisciplinary, self-organizing team, and we recommend you only apply to this opening if you are a person who will wholeheartedly enjoy:
+Be aware that we are mainly looking for multifaceted people who would be genuinely happy to go beyond the scope of a single narrow job position and help us in multiple fronts. We are a distributed, multidisciplinary, self-organizing team, and we recommend you only apply to this opening if you are a person who will wholeheartedly enjoy:
 
 - Always be learning. Flexibility is key; 
 - Find your way in a complex environment;
 - Get stuff done and demonstrate results through metrics;
-- Face the challenge of creating complex products, helping to lead a global movement, and making a dent in the Universe.
+- Face the challenge of creating complex products; 
+- Help to lead a global movement and make a dent in the Universe.
 
 ## Still There?
 
@@ -25,7 +26,9 @@ We are a young company with headquarters in Switzerland and an office in Romania
 
 ## How to Apply
 
-Does this sound interesting? If yes, please send a short email to careers[at]akasha.world telling us about yourself. Add your GitHub profile (or other public code contributions), portfolio, and your résumé. You must add the title of the position you’re applying for, your name, and your city to the subject (without that, unfortunately your email might be deleted). 
+Does this sound interesting? If yes, please send a short email to `careers [at] akasha [dot] world` telling us about yourself. Add your GitHub profile (or other public code contributions), portfolio, and/or your résumé. 
+
+You must add the title of the position you’re applying for, your name, and your city to the email's subject. 
 
 We look forward to hearing from you!
 
