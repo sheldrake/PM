@@ -10,7 +10,7 @@ Feel free to [check our blog](https://blog.akasha.world/) and [get in touch](htt
 
 ## AKASHA Weekly
 
-We have a weekly, all-hands meeting every Friday. Check [details here](https://github.com/AkashaProject/Community/blob/master/AKASHA-weekly.md).
+We have a weekly, all-hands meeting every Friday. Check [details here](https://github.com/AkashaProject/PM/blob/master/AKASHA-weekly.md).
 
 ## Contributing
 
