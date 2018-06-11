@@ -25,7 +25,7 @@ We are a young company with headquarters in Switzerland and an office in Romania
 
 ## How to Apply
 
-Does this sound interesting? If yes, please send a short email to careers[at]akasha.world telling us about yourself. Add your GitHub profile (or other public code contributions), portfolio, and your résumé. You must add the title of the position you’re applying for, your name, and your city to the subject (without that, unfortunately your email with be deleted). 
+Does this sound interesting? If yes, please send a short email to careers[at]akasha.world telling us about yourself. Add your GitHub profile (or other public code contributions), portfolio, and your résumé. You must add the title of the position you’re applying for, your name, and your city to the subject (without that, unfortunately your email might be deleted). 
 
 We look forward to hearing from you!
 
