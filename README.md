@@ -14,7 +14,7 @@ We have a weekly, all-hands meeting every Friday. Check [details here](https://g
 
 ## Contributing
 
-Check CONTRIBUTING
+Please, check [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/CONTRIBUTING.md).
 
 ## Official accounts 
 
