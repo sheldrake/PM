@@ -1,3 +1,5 @@
+# Backend Engineer
+
 We are looking for experienced and motivated developers capable of delivering clean, well-engineered and maintainable code that conforms with accepted standards. Depending on the position you will apply for, you will be responsible for the technical design and implementation of the project’s front-end or back-end functionality.
 
 As part of our team you will work together with a group of talented developers in our **<<<< EDIT LOCATION >>>>** hacklab and interact with some of the brightest minds in the blockchain tech space on unique and challenging ideas. You will also be in direct contact with the development and user community at large, actively participating in open discussions and brainstorming sessions.
@@ -12,10 +14,12 @@ The magic happens in our hacklab conveniently placed in the beautiful Cotroceni 
 - Eye for detail
 
 ### Solid knowledge of
+- Solidity / Smart Contracts 
 - Node.js
 - Database design
 - ES6
 - RESTfull architecture
+- Electron
 
 ### Nice to have
 - 5+ years JavaScript development experience
@@ -23,9 +27,3 @@ The magic happens in our hacklab conveniently placed in the beautiful Cotroceni 
 - Devops knowledge
 - Experience in open source projects
 - A university degree in information technology
-
-### Experience working with
-- C++
-- Go
-- LevelDB/MongoDB
-- Electron
