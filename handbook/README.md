@@ -6,7 +6,7 @@ We want to keep the AKASHA community awesome, growing, and collaborative. And we
 
 By participating, you are expected to uphold this code as well.
 
-Please, report unacceptable behavior by shooting us an e-mail at `hello [at] hello@akasha [dot] world` 
+Please, report unacceptable behavior by shooting us an e-mail at `hello [at] akasha [dot] world` 
 
 ## Contributing   
 
