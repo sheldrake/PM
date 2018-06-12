@@ -4,12 +4,14 @@ Writing readable code is an art and following style guides is one way of ensurin
 
 These are not to be blindly followed; strive to understand these and ask when in doubt.
 
-### General 
+### General
 
-- Don't duplicate the functionality of a built-in library (Note that this is not the case if the task at hand is purely algorithmic).
-- Don't swallow exceptions or "fail silently".
-- Don't write code that guesses at future functionality.
-- Exceptions should be exceptional.
+Writing code to follow best practices is at the heart of good coding practice.
+
+- **DRY (Don’t Repeat Yourself):** code should be DRY. Just like earlier mentioned, you need to ask the question “Is there redundant or duplicate code?”. Ensure that unnecessary repetitions don’t exist within the code base.
+- **Object Oriented Programming:** follow [SOLID principles](http://code.tutsplus.com/series/the-solid-principles--cms-634) for writing object oriented programs. At the very least, we should ensure that programs have high cohesion and loose coupling.
+- **Documenting Code:** code is expected to be thoroughly documented. Always use doc style comments if possible but also write code in a way that you may require little or no comments.
+- **Separation of Concerns:** technically, you could write an entire application code within a single file. But that would prove to be a nightmare to read and maintain. Ensure that your code is always broken into logical containers, properly arranged within folders. This makes it far easier to navigate through your codebase.
 
 ### Naming
 
@@ -54,10 +56,10 @@ These are not to be blindly followed; strive to understand these and ask when in
 
 We need to be observing things that can possibly make a program slow or perform sub-optimally in production. Things to watch out for include the following:
 
-- **Complexity** - Watch out for nested for loops. It’s not always a bad thing but see if there are ways to refactor code like this to be less complex. It is important to create an awareness in the reviewee to always look for ways to optimize the running time of their code. 
-- **Efficiency** - Encourage the use of better data structures or faster algorithms to solve problems. A typical example of this would be using a dictionary for grouped data instead of using multiple lists or declaring unnecessary variables.
-- **Memory management** - Instill a mindset in the reviewee to always think about ways to optimize memory usage in their code. An Android Developer for instance should be encouraged as much as possible to ensure to cleanup afterwards to ensure there are no unused variables and memory leaks. Scenarios?
-- **Design Patterns** - Design patterns besides being accepted ways of solving repetitive problems can also lead to more efficient programs in terms of time and space. Wherever applicable, ensure reviewees are applying design patterns to solve general repetitive problems.
+- **Complexity:** Watch out for nested for loops. It’s not always a bad thing but see if there are ways to refactor code like this to be less complex. It is important to create an awareness in the reviewee to always look for ways to optimize the running time of their code. 
+- **Efficiency:** Encourage the use of better data structures or faster algorithms to solve problems. A typical example of this would be using a dictionary for grouped data instead of using multiple lists or declaring unnecessary variables.
+- **Memory management:** Instill a mindset in the reviewee to always think about ways to optimize memory usage in their code. An Android Developer for instance should be encouraged as much as possible to ensure to cleanup afterwards to ensure there are no unused variables and memory leaks. Scenarios?
+- **Design Patterns:** Design patterns besides being accepted ways of solving repetitive problems can also lead to more efficient programs in terms of time and space. Wherever applicable, ensure reviewees are applying design patterns to solve general repetitive problems.
  
 --- 
 
