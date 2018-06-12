@@ -8,6 +8,10 @@ By participating, you are expected to uphold this code as well.
 
 ## Contributing   
 
+Got here because you wanna contribute to AKASHA? Awesome!
+
+Feel free to skip everything else and jump directly to [Contributing](https://github.com/AkashaProject/PM/blob/master/handbook/contributing.md).
+
 ## Core Team Newcomers
 
 ## Hanbook Sections
