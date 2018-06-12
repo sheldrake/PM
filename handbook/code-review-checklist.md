@@ -1,8 +1,4 @@
-# Code Review 
-
-Reviewing code is at least as important as writing it in the first place. Reviewing someone else's code is a not just a technical task, it's also a human one. Human tasks are always delicate.
-
-The aim of a code review is to make the code better, to detect bugs before merging and delivering, and in addition, to improve maintainability of a given code base.
+# Code Review Checklist
 
 ## Items to be checked in a code review
 
@@ -20,61 +16,64 @@ Please, consider that not all the checklists are there to be used for all the co
 
 This one focuses on some foundational characteristics of a pull request. I didn't add to the list, but you should make sure that the new commits don't break the compilation or the tests. Your Continuous Integration pipeline should take care of this, but in case not. Don't forget about it. Otherwise, check these.
 
-* Are new unit/regression tests added?
-* Are there new compiler warnings?
-* Does the change functionally make sense?
-* Are there a lot of dependencies?
-* Are the commit message clean?
-* ...
+- [ ] Are new unit/regression tests added?
+- [ ] Are there new compiler warnings?
+- [ ] Does the change functionally make sense?
+- [ ] Are there a lot of dependencies?
+- [ ] Are the commit message clean?
 
 ### SOLID (object-oriented design) principles checklist
 In order to verify the sanity of the design, it's worth to go through the SOLID principles. Most probably it's worth to expand this items, into sublists helping to verify each principle.
 
-* Single responsibility principles
-* Open/closed principle
-* Liskov substitution principle
-* Interface segregation principle
-* Dependency inversion principle
-
+- [ ] Single responsibility principles
+- [ ] Open/closed principle
+- [ ] Liskov substitution principle
+- [ ] Interface segregation principle
+- [ ] Dependency inversion principle
 
 ### Security checklist
+
 Your application might or might not be security-critical. As soon as it's hacked once or it fails because of some messy input, it will become one... This checklist if usable, should be heavily language dependent, I give you one for C++. A colleague of mine extracted mainly from this [talk on secure programming practices at the NDC Security Conference at 2018](https://www.youtube.com/watch?v=Jh0G_A7iRac)
 
-* Is external input handled properly?
-* Are C-style interfaces used?
-* Is the `new` operator superfluously used instead of stack allocation?
-* Are there lots of (error-prone) size calculations?
-* Are pointers used a lot?
-* Are shared_ptrs used a lot?
-* Are there any threads?
+- [ ] Is external input handled properly?
+- [ ] Are C-style interfaces used?
+- [ ] Is the `new` operator superfluously used instead of stack allocation?
+- [ ] Are there lots of (error-prone) size calculations?
+- [ ] Are pointers used a lot?
+- [ ] Are shared_ptrs used a lot?
+- [ ] Are there any threads?
 
 ### Testing best practices checklist
 
 I hope we all agree that testing is part of a developer's job and if we had a discussion on testing it would be about the different way to do it, not whether we should do it or not. Bad news is that there is no one way fits for all - still I'd advise you to follow the cycle of Test Driven development. Good news is that hopefully on a project there is a common understanding on at least what should be done. If there is none, step in and advocate for testing, gather articles, studies and convince. You'll be much more respected.
 Here a few points to clarify in regards of the testing part:
 
-* Are there enough unit tests?
-* Are there enough non-regression tests?
-* Do tests test one thing?
-* Do they have assertions? (A test might have multiple assertions, still logically they assert one thing)
-* Are they readable?
-* How dates are used? (Fixed vs. generated)
+- [ ] Are there enough unit tests?
+- [ ] Are there enough non-regression tests?
+- [ ] Do tests test one thing?
+- [ ] Do they have assertions? (A test might have multiple assertions, still logically they assert one thing)
+- [ ] Are they readable?
+- [ ] How dates are used? (Fixed vs. generated)
 
 ### Code readability checklist
 
 We - developers - are all authors. If we do an impeccable job, [our code will read like a prose](https://www.goodreads.com/quotes/7029841-clean-code-is-simple-and-direct-clean-code-reads-like). I don't say that always reach this goal for the whole codebase, but we should aim for that. The code reviewer has a huge responsibility here. If you are reading a pull request, please think about the following questions:
 
-* Are names meaningful?
-* Are classes/functions small enough?
-* Does the code "read like a prose"?
-* Is the code well-formatted?
-* Is there duplicated code?
+- [ ] Are names meaningful?
+- [ ] Are classes/functions small enough?
+- [ ] Does the code "read like a prose"?
+- [ ] Is the code well-formatted?
+- [ ] Is there duplicated code?
 
 ### Resource handling checklist, a.k.a. [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization)
 This last one is rather language specific. It's not only for C++, but mostly. If you are a C++ developer and you ever fought against dangling pointers, memory leaks and nasty core dumps. You know what I mean. For a non-expert it can be really difficult to spot these issues, but following a helpful checklist  might help you both in pointing out the problematic lines and both in developing the RAII expertise.
 
-* Is object ownership clarified?
-* Are objects properly destroyed/ is the memory correctly deallocated?
-* Are new fields properly handled?
-* Are Fields correctly initialized in the constructors?
-* Are comparision operators updated?
+- [ ] Is object ownership clarified?
+- [ ] Are objects properly destroyed/ is the memory correctly deallocated?
+- [ ] Are new fields properly handled?
+- [ ] Are Fields correctly initialized in the constructors?
+- [ ] Are comparision operators updated?
+
+--- 
+
+##### Adapted from https://github.com/sandordargo/code-review-guidelines

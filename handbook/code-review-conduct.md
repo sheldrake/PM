@@ -1,8 +1,4 @@
-# Code Review 
-
-Reviewing code is at least as important as writing it in the first place. Reviewing someone else's code is a not just a technical task, it's also a human one. Human tasks are always delicate.
-
-The aim of a code review is to make the code better, to detect bugs before merging and delivering, and in addition, to improve maintainability of a given code base.
+# Code Review Code of Conduct
 
 ## Code of conduct for the authors
 
@@ -36,4 +32,4 @@ As stated before, commenting on someone else's code is also a human task, be nic
  
 --- 
 
-##### Forked from https://github.com/sandordargo/code-review-guidelines
+##### Adapted from https://github.com/sandordargo/code-review-guidelines
