@@ -8,18 +8,6 @@ AKASHA is a decentralized social media network powered by the [Ethereum](https:/
 
 Feel free to [check our blog](https://blog.akasha.world/) and [get in touch](https://akasha.world/#contact).  
 
-## AKASHA Weekly
-
-We have a weekly, all-hands meeting every Friday. Check [details here](https://github.com/AkashaProject/PM/blob/master/AKASHA-weekly.md).
-
 ## Contributing
 
 Please, check [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/CONTRIBUTING.md).
-
-## Official accounts 
-
-* [Blog](https://blog.akasha.world/)
-* [Discord](https://discord.gg/JqqKasJ)
-* [Twitter](https://twitter.com/akashaproject)  
-
-**"See you on the other side!"**
