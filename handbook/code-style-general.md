@@ -45,11 +45,20 @@ These are not to be blindly followed; strive to understand these and ask when in
 - Use [Unix-style line endings](http://unix.stackexchange.com/questions/23903/should-i-end-my-text-script-files-with-a-newline) (\n).
 - [Use uppercase for SQL keywords and lowercase for SQL identifiers](http://www.postgresql.org/docs/9.2/static/sql-syntax-lexical.html#SQL-SYNTAX-IDENTIFIERS).
 
-## Code Organization
+### Code Organization
 - Ensure to always take advantage of inbuilt language functionality like packages, modules etc. to organise the different parts of your code.
 - Order methods so that caller methods are earlier in the file than the methods they call.
 - Order methods so that methods are as close as possible to other methods they call.
 
+### Code Performance
+
+We need to be observing things that can possibly make a program slow or perform sub-optimally in production. Things to watch out for include the following:
+
+- **Complexity** - Watch out for nested for loops. It’s not always a bad thing but see if there are ways to refactor code like this to be less complex. It is important to create an awareness in the reviewee to always look for ways to optimize the running time of their code. 
+- **Efficiency** - Encourage the use of better data structures or faster algorithms to solve problems. A typical example of this would be using a dictionary for grouped data instead of using multiple lists or declaring unnecessary variables.
+- **Memory management** - Instill a mindset in the reviewee to always think about ways to optimize memory usage in their code. An Android Developer for instance should be encouraged as much as possible to ensure to cleanup afterwards to ensure there are no unused variables and memory leaks. Scenarios?
+- **Design Patterns** - Design patterns besides being accepted ways of solving repetitive problems can also lead to more efficient programs in terms of time and space. Wherever applicable, ensure reviewees are applying design patterns to solve general repetitive problems.
+ 
 --- 
 
 ##### Forked and adapted from https://github.com/andela/code-review-guidelines
