@@ -10,7 +10,6 @@ As part of our team you will work together with a group of talented developers i
 - Ability to work as a team player in a fast-paced team
 - Experience with software testing and continuous integration
 - Good English skills written and spoken
-- Eye for detail
 
 ### Solid knowledge of
 
