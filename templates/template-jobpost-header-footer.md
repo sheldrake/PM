@@ -20,6 +20,16 @@ The projects we are working on have the potential to change the way ideas, thoug
 <<<<<<<< BODY WITH SPECIFICS OF THE OPENING HERE >>>>>>>>>>>>    
 <<<<<<<< BODY WITH SPECIFICS OF THE OPENING HERE >>>>>>>>>>>>    
 
+## What We Offer
+
+- The chance to work on interesting ideas that have to potential to influence and revolutionize entire industries
+- The opportunity to make a positive impact in the world
+- Competitive compensation based on experience and performance
+- Flexible schedule
+- A challenging job in a young, dynamic and innovative team
+- A friendly workplace environment encouraging quality, excellence and creativity
+- Continuous learning opportunities
+
 ## The Company
 
 We are a young company with headquarters in Switzerland and an office in Romania, currently in the process of expanding operations in Spain. With a strong focus on freedom of expression and privacy on the Internet, we bravely experiment with new disruptive technologies in the search for innovative solutions that can make the web a better place.  
