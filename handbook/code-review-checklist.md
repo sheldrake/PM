@@ -76,4 +76,4 @@ This last one is rather language specific. It's not only for C++, but mostly. If
 
 --- 
 
-##### Adapted from https://github.com/sandordargo/code-review-guidelines
+##### Forked and adapted from https://github.com/sandordargo/code-review-guidelines

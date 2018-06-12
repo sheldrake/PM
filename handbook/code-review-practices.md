@@ -2,15 +2,13 @@
 
 ### 1. Review fewer than 400 lines of code at a time
 
-A SmartBear study of a Cisco Systems programming team revealed that developers should review no more than 200 to 400 lines of code (LOC) at a time. The brain can only effectively process so much information at a time; beyond 400 LOC, the ability to find defects diminishes.
+A [SmartBear study of a Cisco Systems programming team](http://smartbear.com/resources/case-studies/cisco-systems-collaborator/) revealed that developers should review no more than 200 to 400 lines of code (LOC) at a time. The brain can only effectively process so much information at a time; beyond 400 LOC, the ability to find defects diminishes.
 
 In practice, a review of 200-400 LOC over 60 to 90 minutes should yield 70-90% defect discovery. So, if 10 defects existed in the code, a properly conducted review would find between seven and nine of them.
  
 ### 2. Take your time. Inspection rates should under 500 LOC per hour
 
 It can be tempting to tear through a review, assuming that someone else will catch the errors that you don´t find. However, SmartBear research shows a significant drop in defect density at rates faster than 500 LOC per hour. Code reviews in reasonable quantity, at a slower pace for a limited amount of time results in the most effective code review.
-
-code-review-best-practices-figure-2.gif
 
 ### 3. Do not review for more than 60 minutes at a time
 
@@ -63,4 +61,4 @@ The SmartBear study of Cisco Systems found that lightweight code review takes le
 
 ---
 
-##### Adapted from [SmartBear's Best Practices for Code Review](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
+##### Forked and adapted from [SmartBear's Best Practices for Code Review](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)

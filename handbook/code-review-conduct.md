@@ -32,4 +32,4 @@ As stated before, commenting on someone else's code is also a human task, be nic
  
 --- 
 
-##### Adapted from https://github.com/sandordargo/code-review-guidelines
+##### Forked and adapted from https://github.com/sandordargo/code-review-guidelines
