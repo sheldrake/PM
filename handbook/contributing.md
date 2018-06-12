@@ -6,8 +6,6 @@ Thanks for your help! We appreciate it!
 
 ## Code of Conduct 
 
-We want to keep the AKASHA community awesome, growing, and collaborative. And we need your help to keep it that way.  
-
-Everyone participating in this project is governed by the [AKASHA Code of Conduct](https://github.com/AkashaProject/PM/blob/master/CODE-OF-CONDUCT.md). By participating, you are expected to uphold this code as well.
+We want to keep the AKASHA community awesome, growing, and collaborative. And we need your help to keep it that way. Hence, everyone participating ou our projects is governed by the [AKASHA Code of Conduct](https://github.com/AkashaProject/PM/blob/master/handbook/code-of-conduct.md).   
 
 Please, report unacceptable behavior by shooting us an e-mail at `hello [at] hello@akasha [dot] world` 
