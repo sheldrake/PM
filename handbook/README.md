@@ -22,7 +22,7 @@ Feel free to skip everything else and jump directly to [Contributing](https://gi
 
 ## Hanbook Sections
 
-- About AKASHA
+- [About AKASHA](https://github.com/AkashaProject/PM/blob/master/handbook/about-akasha.md)
 - [Getting Started](https://github.com/AkashaProject/PM/blob/master/handbook/getting-started.md)
 - Community
 - [Process Overview](https://github.com/AkashaProject/PM/blob/master/handbook/process-overview.md)
