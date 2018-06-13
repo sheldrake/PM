@@ -2,7 +2,7 @@
 
 ## Advanced Knowledge Architecture for Social Human Advocacy
 
-As a word, AKASHA ( [aːkaːʃə], आकाश) has roots in Sanskrit and means “ether” in both its elemental and metaphysical senses.
+As a word, [AKASHA ( [aːkaːʃə], आकाश)](https://en.wikipedia.org/wiki/Akasha) has roots in Sanskrit and means “ether” in both its elemental and metaphysical senses.
 
 The ancient Sanskrit-speaking civilization envisioned akasha as a metaphysical information network connecting humanity with itself and infinite knowledge. In this paradigm, thoughts, ideas, feelings, and experiences are stored forever and shared through akasha, the universal database connecting multiple planes of existence.
 
