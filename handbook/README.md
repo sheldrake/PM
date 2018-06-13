@@ -14,7 +14,11 @@ Got here because you want to contribute to AKASHA? Awesome!
 
 Feel free to skip everything else and jump directly to [Contributing](https://github.com/AkashaProject/PM/blob/master/handbook/contributing.md).
 
-## Core Team Newcomers
+## Core Team 
+
+### Newcomers
+
+### Veterans
 
 ## Hanbook Sections
 
