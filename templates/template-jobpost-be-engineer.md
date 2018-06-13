@@ -11,17 +11,17 @@ As part of our team you will work together with a group of talented developers i
 - Experience with software testing and continuous integration
 - Good English skills written and spoken
 
-### Solid knowledge of
+### Knowledge of
 
 - Node.js
 - Database design
 - ES6
 - RESTfull architecture
 - Electron
+- Solidity / Smart Contracts 
 
 ### Nice to have
 
-- Solidity / Smart Contracts 
 - 5+ years JavaScript development experience
 - Knowledge of blockchain technologies (Bitcoin, Ethereum, etc)
 - Devops knowledge
