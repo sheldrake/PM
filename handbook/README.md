@@ -10,7 +10,7 @@ Please, report unacceptable behavior by shooting us an e-mail at `hello [at] aka
 
 ## Contributing   
 
-Got here because you wanna contribute to AKASHA? Awesome!
+Got here because you want to contribute to AKASHA? Awesome!
 
 Feel free to skip everything else and jump directly to [Contributing](https://github.com/AkashaProject/PM/blob/master/handbook/contributing.md).
 
@@ -18,7 +18,9 @@ Feel free to skip everything else and jump directly to [Contributing](https://gi
 
 ## Hanbook Sections
 
+- About AKASHA
 - [Getting Started](https://github.com/AkashaProject/PM/blob/master/handbook/getting-started.md)
+- Community
 - [Process Overview](https://github.com/AkashaProject/PM/blob/master/handbook/process-overview.md)
 - [AKASHA Weekly Meeting](https://github.com/AkashaProject/PM/blob/master/handbook/akasha-weekly.md)
 - [Coding Style General Guidelines](https://github.com/AkashaProject/PM/blob/master/handbook/code-style-general.md)
@@ -26,3 +28,4 @@ Feel free to skip everything else and jump directly to [Contributing](https://gi
 - [Code Review Code of Conduct](https://github.com/AkashaProject/PM/blob/master/handbook/code-review-conduct.md )
 - [Code Review Best Practices](https://github.com/AkashaProject/PM/blob/master/handbook/code-review-practices.md)
 - [Code Review Checklist](https://github.com/AkashaProject/PM/blob/master/handbook/code-review-checklist.md)
+- AKASHA Manifesto
