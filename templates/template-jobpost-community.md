@@ -35,7 +35,7 @@ As part of our team you will work together with a group of talented professional
 ### Nice to Have
 
 - Experience in open source projects
-- Experience inthe blockchain industry
+- Experience in the blockchain industry
 - Knowledge of Growth Hacking
 
 
