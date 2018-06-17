@@ -14,7 +14,7 @@ As part of our team you will work together with a group of talented professional
 - Experience in launching and managing community initiatives  
 - Experience with content marketing
 - Experience with technical support across social media, email, forums, and chat  
-- Hands on experience with social media management for brands (Twitter, Telegram, Medium, Slack, LinkedIn, Facebook, …)   
+- Hands on experience with social media management for brands (Twitter, Telegram, Medium, Discord, LinkedIn, Facebook, …)   
 - Able to create and communicate clear metrics to track the community grow and engagement
 - Ability to work as a team player in a fast-paced team
 
