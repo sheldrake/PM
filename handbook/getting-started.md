@@ -6,11 +6,11 @@ This section was written to facilitate the onboarding process of new core team m
 
 We are always excited to onboard new team members, and wish you lots of fun while hacking on AKASHA's projects.
 
-We had you in mind a lot while writting this handbook, because we want to present you with all the information and some shortcuts for a productive and enoyable start. So we recommend reading the handbook before anything else. Take your time, grab a cup of tea, and enjoy the reading. 
+We wrote this `Getting Started` because we want to give you all the information and shortcuts for a productive and enoyable start. 
 
-Please, thoughtfully go through all the sections in detail, but the tecnhical ones that are not relevant for you, such as, for example, sections related to specific programming languages you won't be using. 
+Regarding the first list item, `Read this Handbook`: please, thoughtfully go through all the Handbook sections in detail, with exception of the tecnhical ones that are not relevant for you, such as, for example, sections related to specific programming languages you won't be using. Take your time, grab a cup of tea, and enjoy the reading. 
 
-If you have any questions or consideration, please ping your colleagues in our Discord channels. It's important to share your points in our main channels so we all can understand how we can better help you to have a smooth start and also so we can continuously improve our onboarding process. So, please, feel free to shoot us any and all questions and considerations. We will appreciate it. 
+And if you have any questions or consideration, let us know.
 
 ## Onboarding Checklist
 
