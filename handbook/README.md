@@ -14,20 +14,6 @@ Got here because you want to contribute to AKASHA? Awesome!
 
 Feel free to skip everything else and jump directly to [Contributing](https://github.com/AkashaProject/PM/blob/master/handbook/contributing.md).
 
-## Core Team 
-
-### Newcomers
-
-Welcome to the core team! We are always excited to onboard new team members, and wish you lots of fun while hacking on AKASHA's projects.
-
-We had you in mind a lot while writting this handbook, because we want to present you with all the information and some shortcuts for a productive and smooth start. So we recommend reading it before start doing anything else. Take your time, grab a cup of tea, and enjoy the reading. 
-
-Please, thoughtfully go through all the sections in detail, but the tecnhical ones that are not relevant for you, such as sections related to programming languages you won't be using. 
-
-If you have any questions or consideration, please share your point in one of our Discord channels. It's important to share your points in our main channels so we all can understand how we can better help you to have a smooth start and how we can continuously improve our onboarding process as well. So, please, feel free to shoot us any and all questions and considerations. We will appreciate it. 
-
-### Veterans
-
 ## Hanbook Sections
 
 - [About AKASHA](https://github.com/AkashaProject/PM/blob/master/handbook/about-akasha.md)
