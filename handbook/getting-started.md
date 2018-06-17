@@ -14,13 +14,15 @@ If you have any questions or consideration, please ping your colleagues in our D
 
 - [ ] Read this Handbook
 - [ ] Introduce yourself around
-- [ ] You must have a hardware token to sign commits and 2FA
+- [ ] Review responsabilities and expectations
+- [ ] Review our team's calendar (meetings, events, etc)
+- [ ] Review your schedule and default working hours your colleagues
+- [ ] Review the office practices with your colleagues
+- [ ] You **MUST HAVE** a hardware token to identify yourself online
 - [ ] Check if your work environment has everything you need
+- [ ] Get you `@AKASHA.world` email address
 - [ ] Join the `AKASHA Core Team` channels on Discord
 - [ ] Join the `AKASHA Core Team` on GitHub
-- [ ] Get you @AKASHA.world email address
+- [ ] If you're an engineer, start exploring our GitHub repos 
 - [ ] Research about the AKASHA Foundation and our projects 
-- [ ] Explore our products to be comfortable to start discussing them in depth
-- [ ] Review responsabilities and expectations
-- [ ] Review your schedule and default work hours with your colleagues
-- [ ] Review the office practices with your colleagues
+- [ ] Test and explore our products to be able to discuss about them in depth
