@@ -8,9 +8,9 @@ We are always excited to onboard new team members, and wish you lots of fun whil
 
 We wrote this `Getting Started` because we want to give you all the information and shortcuts for a productive and enoyable start. 
 
-Regarding the first list item, `Read this Handbook`: please, thoughtfully go through all the Handbook sections in detail, with exception of the tecnhical ones that are not relevant for you, such as, for example, sections related to specific programming languages you won't be using. Take your time, grab a cup of tea, and enjoy the reading. 
+Regarding the first list item, `Read this Handbook`: please, thoughtfully go through all the Handbook sections in detail, with exception of the tecnhical ones that are not relevant for you, such as, for example, sections related to specific programming languages you won't be using. 
 
-And if you have any questions or consideration, let us know.
+Take your time and enjoy the reading. And if you have any questions or consideration, let us know.
 
 ## Onboarding Checklist
 
