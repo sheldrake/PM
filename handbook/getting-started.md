@@ -20,9 +20,14 @@ If you have any questions or consideration, please ping your colleagues in our D
 - [ ] Review the office practices with your colleagues
 - [ ] You **MUST HAVE** a hardware token to identify yourself online
 - [ ] Check if your work environment has everything you need
-- [ ] Get you `@AKASHA.world` email address
+- [ ] Get your `@AKASHA.world` email address
 - [ ] Join the `AKASHA Core Team` channels on Discord
 - [ ] Join the `AKASHA Core Team` on GitHub
 - [ ] If you're an engineer, start exploring our GitHub repos 
 - [ ] Research about the AKASHA Foundation and our projects 
-- [ ] Test and explore our products to be able to discuss about them in depth
+- [ ] Test and explore our live products to be able to discuss about them in depth
+
+### Good to go? 
+If you need help with any of these points, get in touch with the person who is facilitating your onboarding. And after going through all of them, please make a copy of the list, check all the items, and send it by email to the person who facilitated the process. 
+
+If you have any feedback about this onboarding process, especially any suggestion to improve the process for future colleagues, add your suggestions to the email as well. We will appreciate it!   
