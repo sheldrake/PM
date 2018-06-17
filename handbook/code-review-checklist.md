@@ -2,13 +2,7 @@
 
 ## Items to be checked in a code review
 
-Reviewing code is difficult, and in fact, it's a very broad task. According to my bosses, I'm considered a good code reviewer, but still, I think my effectiveness could be improved a lot. I think that following checklists, just in most of the cases, can be a huge help.
-
-Now obviously, some of those checklists and/or tasks will be language specific. However what makes a review a good one are most of the time the same concepts, regardless of the language used.
-
-These lists are mostly here to give you some ideas, they are far from complete. Feel free to use them, update them, personalize them or just let them inspire you to come up with completely new ones.
-
-I think that one reviewer shouldn't use them all, but maybe just a few. But if you have separate checklists, it's easy to share the tasks.
+These checklists are mostly here to give you some ideas, they are far from complete. Feel free to use them, update them, personalize them or just let them inspire you to come up with completely new ones.
 
 Please, consider that not all the checklists are there to be used for all the code reviews. If the pull request is a really small bugfix, just correcting an off-by-one in a condition, it will not require checking the design of the whole domain.
 
