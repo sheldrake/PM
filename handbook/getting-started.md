@@ -1,8 +1,8 @@
 # Getting Started
 
-## Welcome
+## Weeeelcome!
 
-New to the core team?! Weeeelcome! We are always excited to onboard new team members, and wish you lots of fun while hacking on AKASHA's projects.
+We are always excited to onboard new team members, and wish you lots of fun while hacking on AKASHA's projects.
 
 We had you in mind a lot while writting this handbook, because we want to present you with all the information and some shortcuts for a productive and enoyable start. So we recommend reading the handbook before anything else. Take your time, grab a cup of tea, and enjoy the reading. 
 

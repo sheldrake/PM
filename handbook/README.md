@@ -16,8 +16,9 @@ Feel free to skip everything else and jump directly to [Contributing](https://gi
 
 ## Hanbook Sections
 
-- [About AKASHA](https://github.com/AkashaProject/PM/blob/master/handbook/about-akasha.md)
 - [Getting Started](https://github.com/AkashaProject/PM/blob/master/handbook/getting-started.md)
+- [About AKASHA](https://github.com/AkashaProject/PM/blob/master/handbook/about-akasha.md)
+- AKASHA Manifesto
 - Community
 - [Communication Guidelines](https://github.com/AkashaProject/PM/blob/master/handbook/communication-guidelines.md)
 - [Tools](https://github.com/AkashaProject/PM/blob/master/handbook/tools.md)
@@ -28,4 +29,3 @@ Feel free to skip everything else and jump directly to [Contributing](https://gi
 - [Code Review Code of Conduct](https://github.com/AkashaProject/PM/blob/master/handbook/code-review-conduct.md )
 - [Code Review Best Practices](https://github.com/AkashaProject/PM/blob/master/handbook/code-review-practices.md)
 - [Code Review Checklist](https://github.com/AkashaProject/PM/blob/master/handbook/code-review-checklist.md)
-- AKASHA Manifesto

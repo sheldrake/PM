@@ -14,8 +14,6 @@ Please, consider that not all the checklists are there to be used for all the co
 
 ### Full process checklist
 
-This one focuses on some foundational characteristics of a pull request. I didn't add to the list, but you should make sure that the new commits don't break the compilation or the tests. Your Continuous Integration pipeline should take care of this, but in case not. Don't forget about it. Otherwise, check these.
-
 - [ ] Are new unit/regression tests added?
 - [ ] Are there new compiler warnings?
 - [ ] Does the change functionally make sense?
@@ -23,7 +21,6 @@ This one focuses on some foundational characteristics of a pull request. I didn'
 - [ ] Are the commit message clean?
 
 ### SOLID (object-oriented design) principles checklist
-In order to verify the sanity of the design, it's worth to go through the SOLID principles. Most probably it's worth to expand this items, into sublists helping to verify each principle.
 
 - [ ] Single responsibility principles
 - [ ] Open/closed principle
@@ -32,8 +29,6 @@ In order to verify the sanity of the design, it's worth to go through the SOLID 
 - [ ] Dependency inversion principle
 
 ### Security checklist
-
-Your application might or might not be security-critical. As soon as it's hacked once or it fails because of some messy input, it will become one... This checklist if usable, should be heavily language dependent, I give you one for C++. A colleague of mine extracted mainly from this [talk on secure programming practices at the NDC Security Conference at 2018](https://www.youtube.com/watch?v=Jh0G_A7iRac)
 
 - [ ] Is external input handled properly?
 - [ ] Are C-style interfaces used?
@@ -45,9 +40,6 @@ Your application might or might not be security-critical. As soon as it's hacked
 
 ### Testing best practices checklist
 
-I hope we all agree that testing is part of a developer's job and if we had a discussion on testing it would be about the different way to do it, not whether we should do it or not. Bad news is that there is no one way fits for all - still I'd advise you to follow the cycle of Test Driven development. Good news is that hopefully on a project there is a common understanding on at least what should be done. If there is none, step in and advocate for testing, gather articles, studies and convince. You'll be much more respected.
-Here a few points to clarify in regards of the testing part:
-
 - [ ] Are there enough unit tests?
 - [ ] Are there enough non-regression tests?
 - [ ] Do tests test one thing?
@@ -57,16 +49,13 @@ Here a few points to clarify in regards of the testing part:
 
 ### Code readability checklist
 
-We - developers - are all authors. If we do an impeccable job, [our code will read like a prose](https://www.goodreads.com/quotes/7029841-clean-code-is-simple-and-direct-clean-code-reads-like). I don't say that always reach this goal for the whole codebase, but we should aim for that. The code reviewer has a huge responsibility here. If you are reading a pull request, please think about the following questions:
-
 - [ ] Are names meaningful?
 - [ ] Are classes/functions small enough?
 - [ ] Does the code "read like a prose"?
 - [ ] Is the code well-formatted?
 - [ ] Is there duplicated code?
 
-### Resource handling checklist, a.k.a. [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization)
-This last one is rather language specific. It's not only for C++, but mostly. If you are a C++ developer and you ever fought against dangling pointers, memory leaks and nasty core dumps. You know what I mean. For a non-expert it can be really difficult to spot these issues, but following a helpful checklist  might help you both in pointing out the problematic lines and both in developing the RAII expertise.
+### Resource handling checklist, a.k.a. 
 
 - [ ] Is object ownership clarified?
 - [ ] Are objects properly destroyed/ is the memory correctly deallocated?
