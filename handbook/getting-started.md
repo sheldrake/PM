@@ -1,5 +1,7 @@
 # Getting Started
 
+This section was written to facilitate the onboarding process of new core team members.
+
 ## Weeeelcome!
 
 We are always excited to onboard new team members, and wish you lots of fun while hacking on AKASHA's projects.
@@ -13,21 +15,24 @@ If you have any questions or consideration, please ping your colleagues in our D
 ## Onboarding Checklist
 
 - [ ] Read this Handbook
-- [ ] Introduce yourself around
+- [ ] Introduce yourself around the office
 - [ ] Review responsabilities and expectations
 - [ ] Review our team's calendar (meetings, events, etc)
-- [ ] Review your schedule and default working hours your colleagues
+- [ ] Review your schedule and default working hours with your colleagues
 - [ ] Review the office practices with your colleagues
-- [ ] You **MUST HAVE** a hardware token to identify yourself online
+- [ ] You **MUST HAVE** a hardware token to identify yourself online and sign transactions
 - [ ] Check if your work environment has everything you need
 - [ ] Get your `@AKASHA.world` email address
-- [ ] Join the `AKASHA Core Team` channels on Discord
+- [ ] Join the `CORE TEAM` channels on Discord
 - [ ] Join the `AKASHA Core Team` on GitHub
+- [ ] Write a post introducing yourself in our `CORE TEAM` channel on Discord
 - [ ] If you're an engineer, start exploring our GitHub repos 
-- [ ] Research about the AKASHA Foundation and our projects 
+- [ ] Research about AKASHA and our projects 
 - [ ] Test and explore our live products to be able to discuss about them in depth
 
-### Good to go? 
-If you need help with any of these points, get in touch with the person who is facilitating your onboarding. And after going through all of them, please make a copy of the list, check all the items, and send it by email to the person who facilitated the process. 
+## Good to go? 
+If you need help with any of these points, get in touch with the person who is facilitating your onboarding.
 
-If you have any feedback about this onboarding process, especially any suggestion to improve the process for future colleagues, add your suggestions to the email as well. We will appreciate it!   
+After going through all above items, please make a copy of the checklist, check all items, and send the list by email to the person who facilitated the process. 
+
+If you have any feedback about this onboarding process, especially any suggestion to improve the process for future colleagues, please share your suggestions with us. We will appreciate it! :pray:
