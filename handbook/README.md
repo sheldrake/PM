@@ -1,5 +1,13 @@
 # AKASHA Handbook
 
+This handbook was written to serve as a set of guidelines for our core team members and community collaborators on anything related to our culture, processes, practices, roles, and rituals.
+
+We believe that a very well defined set of guidelines is crictial to thrive in a self-organizing environment, as they help each one of us to move deliberately but with a shared vision and shared goals --- and without acidentally 'breaking' anything. 
+
+Also, a well defined set of guidelines ensures that we deliver awesome rock-solid products :-)
+
+**This hanbook is a continuous work-in-progress. Please, do help to improve it and keep it up to date!** 
+
 ## Code of Conduct
 
 We want to keep the AKASHA community awesome, growing, and collaborative. And we need your help to keep it that way. Hence, everyone participating ou our projects is governed by the [AKASHA Code of Conduct](https://github.com/AkashaProject/PM/blob/master/handbook/code-of-conduct.md).   
