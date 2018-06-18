@@ -1,4 +1,4 @@
-# Communication Guidelines
+# Communication Core Team
 
 ## General Guidelines
 

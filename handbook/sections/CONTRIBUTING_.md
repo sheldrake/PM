@@ -1,4 +1,4 @@
-## Contributing
+## CONTRIBUTING
 
 Want to contribute to AKASHA? Aweeeeesome!
  

@@ -14,7 +14,7 @@ We are always excited to onboard new team members, and wish you lots of fun whil
 - [ ] Review your team's calendar (meetings, events, etc)
 - [ ] Review and discuss your schedule and default working hours with your colleagues
 - [ ] Review the office practices with your colleagues
-- [ ] You **MUST HAVE** a hardware token to identify yourself online and sign transactions
+- [ ] You **MUST HAVE** a hardware token to identify yourself online and sign operations
 - [ ] Check if your work environment has everything you need
 - [ ] Get your `@AKASHA.world` email address
 - [ ] Join the `CORE TEAM` channels on Discord

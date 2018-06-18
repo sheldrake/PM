@@ -27,10 +27,10 @@ Feel free to skip everything else and jump directly to [CONTRIBUTING](https://gi
 - [Getting Started](https://github.com/AkashaProject/PM/blob/master/handbook/sections/getting-started.md)
 - [About AKASHA](https://github.com/AkashaProject/PM/blob/master/handbook/sections/about-akasha.md)
 - AKASHA Manifesto
-- Community Communication](https://github.com/AkashaProject/PM/blob/master/handbook/sections/community-communication.md)
 - [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/handbook/sections/CONTRIBUTING.md)
-- [Communication Guidelines](https://github.com/AkashaProject/PM/blob/master/handbook/sections/communication-guidelines.md)
-- [Tools We Use](https://github.com/AkashaProject/PM/blob/master/handbook/sections/tools.md)
+- [Communication Community](https://github.com/AkashaProject/PM/blob/master/handbook/sections/community-communication.md)
+- [Communication Core Team](https://github.com/AkashaProject/PM/blob/master/handbook/sections/communication-core-team.md)
+- [Tools We Use](https://github.com/AkashaProject/PM/blob/master/handbook/sections/tools-we-use.md)
 - [Process Overview](https://github.com/AkashaProject/PM/blob/master/handbook/sections/process-overview.md)
 - [AKASHA Weekly Meeting](https://github.com/AkashaProject/PM/blob/master/handbook/sections/akasha-weekly.md)
 - [Coding Style General Guidelines](https://github.com/AkashaProject/PM/blob/master/handbook/sections/code-style-general.md)
