@@ -1,4 +1,4 @@
-# Frontend Engineer 
+# Full Stack Engineer 
 
 We are looking for experienced and motivated developers capable of delivering clean, well-engineered and maintainable code that conforms with accepted standards. Depending on the position you will apply for, you will be responsible for the technical design and implementation of the project’s front-end or back-end functionality.
 
