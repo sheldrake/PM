@@ -1,0 +1,3 @@
+# Vocabulary
+
+## Self-organizing
