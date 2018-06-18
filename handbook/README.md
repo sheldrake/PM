@@ -40,5 +40,5 @@ Feel free to skip everything else and jump directly to [CONTRIBUTING](https://gi
 - [Code Review Code of Conduct](https://github.com/AkashaProject/PM/blob/master/handbook/sections/code-review-conduct.md )
 - [Code Review Best Practices](https://github.com/AkashaProject/PM/blob/master/handbook/sections/code-review-practices.md)
 - [Code Review Checklist](https://github.com/AkashaProject/PM/blob/master/handbook/sections/code-review-checklist.md)
-- [Library]
+- [Library](https://github.com/AkashaProject/PM/blob/master/handbook/sections/library.md)
 - [Vocabulary](https://github.com/AkashaProject/PM/blob/master/handbook/sections/vocabulary.md)

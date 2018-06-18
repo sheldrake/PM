@@ -29,4 +29,4 @@ If you need help with any of these points, get in touch with the person who is f
 
 After going through all items, please make a copy of the checklist, check all items, and send the list by email to the person who facilitated the process. 
 
-If you have any feedback about this onboarding process, especially any suggestion to improve the process for future colleagues, please share your suggestions with us. We will appreciate it! :pray:
+If you have any feedback about this onboarding process, especially any suggestion to improve the process for future colleagues, please share your suggestions with us. We will highly appreciate it! :pray:
