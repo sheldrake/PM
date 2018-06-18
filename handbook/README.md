@@ -8,8 +8,6 @@ Also, a well defined set of guidelines helps us to deliver awesome rock-solid pr
 
 **This hanbook is a continuous work-in-progress. Please, do help to improve it and keep it up to date!** 
 
-![thank you!](https://raw.githubusercontent.com/AkashaProject/PM/master/util/thank-you.gif)
-
 ## Code of Conduct
 
 We want to keep the AKASHA community awesome, growing, and collaborative. And we need your help to keep it that way. Hence, everyone participating ou our projects is governed by the [AKASHA Code of Conduct](https://github.com/AkashaProject/PM/blob/master/handbook/sections/code-of-conduct.md).   
@@ -20,17 +18,17 @@ Please, report unacceptable behavior by shooting us an e-mail at `hello [at] aka
 
 ## Contributing   
 
-Got here because you want to contribute to AKASHA? Awesome!
+Got here because you want to contribute to AKASHA? Aweeeeesome!
 
-Feel free to skip everything else and jump directly to [Contributing](https://github.com/AkashaProject/PM/blob/master/handbook/sections/contributing.md).
+Feel free to skip everything else and jump directly to [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/handbook/sections/CONTRIBUTING.md).
 
 ## Hanbook Sections
 
 - [Getting Started](https://github.com/AkashaProject/PM/blob/master/handbook/sections/getting-started.md)
 - [About AKASHA](https://github.com/AkashaProject/PM/blob/master/handbook/sections/about-akasha.md)
 - AKASHA Manifesto
-- Community
-- [Contributing](https://github.com/AkashaProject/PM/blob/master/handbook/sections/contributing.md)
+- Community Communication](https://github.com/AkashaProject/PM/blob/master/handbook/sections/community-communication.md)
+- [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/handbook/sections/CONTRIBUTING.md)
 - [Communication Guidelines](https://github.com/AkashaProject/PM/blob/master/handbook/sections/communication-guidelines.md)
 - [Tools We Use](https://github.com/AkashaProject/PM/blob/master/handbook/sections/tools.md)
 - [Process Overview](https://github.com/AkashaProject/PM/blob/master/handbook/sections/process-overview.md)
