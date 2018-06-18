@@ -1,6 +1,6 @@
 # AKASHA Handbook
 
-This handbook was written to serve as a set of guidelines for our core team members and community collaborators on anything related to our culture, processes, practices, roles, and rituals.
+This handbook was written to serve as a set of guidelines for our community collaborators and core team members on anything related to our culture, processes, practices, roles, and rituals.
 
 We believe that a very well defined set of guidelines is crictial to thrive in a self-organizing environment, as they help each one of us to move deliberately but with a shared vision and shared goals - and without acidentally 'breaking' anything. 
 
@@ -12,7 +12,7 @@ Also, a well defined set of guidelines helps us to deliver awesome rock-solid pr
 
 We want to keep the AKASHA community awesome, growing, and collaborative. And we need your help to keep it that way. Hence, everyone participating ou our projects is governed by the [AKASHA Code of Conduct](https://github.com/AkashaProject/PM/blob/master/handbook/sections/code-of-conduct.md).   
 
-By participating, you are expected to uphold this code as well.
+**By participating, you are expected to uphold this code as well.**
 
 Please, report unacceptable behavior by shooting us an e-mail at `hello [at] akasha [dot] world` 
 
@@ -30,12 +30,15 @@ Feel free to skip everything else and jump directly to [CONTRIBUTING](https://gi
 - [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/handbook/sections/CONTRIBUTING.md)
 - [Communication Community](https://github.com/AkashaProject/PM/blob/master/handbook/sections/community-communication.md)
 - [Communication Core Team](https://github.com/AkashaProject/PM/blob/master/handbook/sections/communication-core-team.md)
+- [How We Work]
 - [Tools We Use](https://github.com/AkashaProject/PM/blob/master/handbook/sections/tools-we-use.md)
 - [Dev Process Overview](https://github.com/AkashaProject/PM/blob/master/handbook/sections/dev-process-overview.md)
+- Our Rituals
 - [AKASHA Weekly Meeting](https://github.com/AkashaProject/PM/blob/master/handbook/sections/akasha-weekly.md)
 - [Coding Style General Guidelines](https://github.com/AkashaProject/PM/blob/master/handbook/sections/code-style-general.md)
 - [Application Security](https://github.com/AkashaProject/PM/blob/master/handbook/sections/application-security.md)
 - [Code Review Code of Conduct](https://github.com/AkashaProject/PM/blob/master/handbook/sections/code-review-conduct.md )
 - [Code Review Best Practices](https://github.com/AkashaProject/PM/blob/master/handbook/sections/code-review-practices.md)
 - [Code Review Checklist](https://github.com/AkashaProject/PM/blob/master/handbook/sections/code-review-checklist.md)
+- [Library]
 - [Vocabulary](https://github.com/AkashaProject/PM/blob/master/handbook/sections/vocabulary.md)

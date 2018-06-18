@@ -11,8 +11,6 @@
 
 ## The code of conduct for code reviewers
 
-As stated before, commenting on someone else's code is also a human task, be nice to your fellow developers. Here are some pieces of advice, following them will highly decrease the chance that developers cry or throw chairs to each other in the office. (Just to mention, I have never seen the latter. So far...)
-
 ### Don'ts
 * Don't refer to personal traits and don't judge (e.g. refer from saying you/your code is stupid...)
 * Don't make demands (at least put there a please and explain why you ask for a change)
