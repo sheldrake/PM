@@ -31,7 +31,7 @@ Feel free to skip everything else and jump directly to [CONTRIBUTING](https://gi
 - [Communication Community](https://github.com/AkashaProject/PM/blob/master/handbook/sections/community-communication.md)
 - [Communication Core Team](https://github.com/AkashaProject/PM/blob/master/handbook/sections/communication-core-team.md)
 - [Tools We Use](https://github.com/AkashaProject/PM/blob/master/handbook/sections/tools-we-use.md)
-- [Process Overview](https://github.com/AkashaProject/PM/blob/master/handbook/sections/process-overview.md)
+- [Dev Process Overview](https://github.com/AkashaProject/PM/blob/master/handbook/sections/dev-process-overview.md)
 - [AKASHA Weekly Meeting](https://github.com/AkashaProject/PM/blob/master/handbook/sections/akasha-weekly.md)
 - [Coding Style General Guidelines](https://github.com/AkashaProject/PM/blob/master/handbook/sections/code-style-general.md)
 - [Application Security](https://github.com/AkashaProject/PM/blob/master/handbook/sections/application-security.md)
