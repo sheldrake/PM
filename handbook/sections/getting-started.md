@@ -8,11 +8,11 @@ We are always excited to onboard new team members, and wish you lots of fun whil
 
 ## Onboarding Checklist
 
-- [ ] Read this Handbook; thoughtfully go through all the sections in detail
+- [ ] Start reading this entire handbook; thoughtfully go through all its sections
 - [ ] Introduce yourself around the office
 - [ ] Review responsabilities and expectations
-- [ ] Review our team's calendar (meetings, events, etc)
-- [ ] Review your schedule and default working hours with your colleagues
+- [ ] Review your team's calendar (meetings, events, etc)
+- [ ] Review and discuss your schedule and default working hours with your colleagues
 - [ ] Review the office practices with your colleagues
 - [ ] You **MUST HAVE** a hardware token to identify yourself online and sign transactions
 - [ ] Check if your work environment has everything you need
