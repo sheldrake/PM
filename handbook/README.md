@@ -20,7 +20,7 @@ Please, report unacceptable behavior by shooting us an e-mail at `hello [at] aka
 
 Got here because you want to contribute to AKASHA? Aweeeeesome! :metal:
 
-Feel free to skip everything else and jump directly to [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/handbook/sections/CONTRIBUTING.md) :rocket::pray::love:
+Feel free to skip everything else and jump directly to [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/handbook/sections/CONTRIBUTING.md) :rocket:
 
 ## Hanbook Sections
 
