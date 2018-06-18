@@ -1,6 +1,6 @@
 ## CONTRIBUTING
 
-Want to contribute to AKASHA? Aweeeeesome!
+Want to contribute to AKASHA? Aweeeeesome! :metal:
  
 In these early stages, you can help by trying out [the beta version](https://beta.akasha.world/), and reporting your experiences [here](https://github.com/AkashaProject/dapp/issues).    
 
