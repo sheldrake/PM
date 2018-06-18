@@ -2,11 +2,13 @@
 
 This handbook was written to serve as a set of guidelines for our core team members and community collaborators on anything related to our culture, processes, practices, roles, and rituals.
 
-We believe that a very well defined set of guidelines is crictial to thrive in a self-organizing environment, as they help each one of us to move deliberately but with a shared vision and shared goals --- and without acidentally 'breaking' anything. 
+We believe that a very well defined set of guidelines is crictial to thrive in a self-organizing environment, as they help each one of us to move deliberately but with a shared vision and shared goals - and without acidentally 'breaking' anything. 
 
 Also, a well defined set of guidelines ensures that we deliver awesome rock-solid products :-)
 
 **This hanbook is a continuous work-in-progress. Please, do help to improve it and keep it up to date!** 
+
+![thank you!](https://raw.githubusercontent.com/AkashaProject/PM/master/util/thank-you.gif)
 
 ## Code of Conduct
 
