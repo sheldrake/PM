@@ -1,4 +1,4 @@
-# AKASHA Handbook
+# ![the astronaut and the cat](https://raw.githubusercontent.com/AkashaProject/PM/master/util/akasha-100-100.md) AKASHA Handbook
 
 This handbook was written to serve as a set of guidelines for our community collaborators and core team members on anything related to our culture, processes, practices, roles, and rituals.
 
@@ -27,8 +27,9 @@ Feel free to skip everything else and jump directly to [CONTRIBUTING](https://gi
 - [Getting Started](https://github.com/AkashaProject/PM/blob/master/handbook/sections/getting-started.md)
 - [About AKASHA](https://github.com/AkashaProject/PM/blob/master/handbook/sections/about-akasha.md)
 - AKASHA Manifesto
+- [The Core Team]
 - [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/handbook/sections/CONTRIBUTING.md)
-- [Communication Community](https://github.com/AkashaProject/PM/blob/master/handbook/sections/community-communication.md)
+- [Communication Community](https://github.com/AkashaProject/PM/blob/master/handbook/sections/communication-community.md)
 - [Communication Core Team](https://github.com/AkashaProject/PM/blob/master/handbook/sections/communication-core-team.md)
 - [How We Work]
 - [Tools We Use](https://github.com/AkashaProject/PM/blob/master/handbook/sections/tools-we-use.md)

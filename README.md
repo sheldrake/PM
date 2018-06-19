@@ -10,4 +10,4 @@ Feel free to [check our blog](https://blog.akasha.world/) and [get in touch](htt
 
 ## Contributing
 
-Please, check [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/CONTRIBUTING.md).
+Please, check [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/CONTRIBUTING.md) :rocket:
