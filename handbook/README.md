@@ -1,4 +1,4 @@
-# ![the astronaut and the cat](https://raw.githubusercontent.com/AkashaProject/PM/master/util/akasha-30x28.png) AKASHA Handbook
+# ![the astronaut and the cat](https://raw.githubusercontent.com/AkashaProject/PM/master/util/akasha-50x50.png) AKASHA Handbook
 
 This handbook was written to serve as a set of guidelines for our community collaborators and core team members on anything related to our culture, processes, practices, roles, and rituals.
 
