@@ -1,4 +1,4 @@
-# Program Management
+# ![AKASHA](https://raw.githubusercontent.com/AkashaProject/PM/master/util/akasha-30x28.png) Program Management
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AkashaProject/dapp/issues)   
 
