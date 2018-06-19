@@ -1,6 +1,6 @@
 # Library
 
-References of manifestos, articles, blog posts, and books we :heart:
+List of manifestos, articles, blog posts, and books we :heart:
 
 ## Manifestos
 
