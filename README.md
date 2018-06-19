@@ -4,10 +4,12 @@
 
 ## About AKASHA 
 
-AKASHA is a decentralized social media network powered by the [Ethereum](https://www.ethereum.org/) world computer and embedded into the [Inter-Planetary File System](https://ipfs.io/).
+AKASHA is a decentralized social media network powered by the [Ethereum](https://www.ethereum.org/) world computer and embedded into the [Inter-Planetary File System](https://ipfs.io/) :rocket:
 
-Feel free to [check our blog](https://blog.akasha.world/) and [get in touch](https://akasha.world/#contact).  
+Feel free to [check our blog](https://blog.akasha.world/) and [get in touch](https://discord.gg/JqqKasJ).  
 
 ## Contributing
 
-Please, check [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/CONTRIBUTING.md) :rocket:
+Want to contribute to AKASHA? Aweeeeesome!
+
+Please, check [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/CONTRIBUTING.md) :metal:

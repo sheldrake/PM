@@ -27,7 +27,6 @@ Feel free to skip everything else and jump directly to [CONTRIBUTING](https://gi
 - [Getting Started](https://github.com/AkashaProject/PM/blob/master/handbook/sections/getting-started.md)
 - [About AKASHA](https://github.com/AkashaProject/PM/blob/master/handbook/sections/about-akasha.md)
 - AKASHA Manifesto
-- The Core Team
 - [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/handbook/sections/CONTRIBUTING.md)
 - [Communication Community](https://github.com/AkashaProject/PM/blob/master/handbook/sections/communication-community.md)
 - [Communication Core Team](https://github.com/AkashaProject/PM/blob/master/handbook/sections/communication-core-team.md)
