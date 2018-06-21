@@ -1,4 +1,4 @@
-# ![AKASHA](https://raw.githubusercontent.com/AkashaProject/PM/master/design/akasha-30x28.png) AKASHA Handbook
+# AKASHA Handbook
 
 This handbook was written to serve as a set of guidelines for our community collaborators and core team members on anything related to our culture, processes, practices, roles, and rituals.
 

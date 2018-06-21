@@ -1,4 +1,4 @@
-# ![AKASHA](https://raw.githubusercontent.com/AkashaProject/PM/master/design/akasha-30x28.png) <<<< REPO NAME >>>>
+# <<<< REPO NAME >>>>
 
 **<<<< REPO DESCRIPTION >>>>**
 
