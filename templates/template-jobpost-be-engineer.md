@@ -1,6 +1,6 @@
 # Backend Engineer / Smart Contracts
 
-We are looking for experienced and motivated developers capable of delivering clean, well-engineered and maintainable code that conforms with accepted standards. Depending on the position you will apply for, you will be responsible for the technical design and implementation of the project’s front-end or back-end functionality.
+We are looking for experienced and motivated developers capable of delivering clean, well-engineered and maintainable code that conforms with accepted standards. Depending on the position you will apply for, you will be responsible for the technical design and implementation of the project’s back-end functionality.
 
 As part of our team you will work together with a group of talented developers in our **<<<< EDIT LOCATION >>>>** hacklab and interact with some of the brightest minds in the blockchain tech space on unique and challenging ideas. You will also be in direct contact with the development and user community at large, actively participating in open discussions and brainstorming sessions.
 
