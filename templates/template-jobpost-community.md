@@ -1,6 +1,6 @@
 # Community Manager
 
-We are looking for an experienced and motivated Community Manager to help us grow and engage our community across different channels. You will be responsible for facilitating community communication and customer support. Therefore, we are looking for candidates who have great communication skills in English, and in-depth experience with community engagement, social media, email marketing, and customer support.
+We are looking for an experienced and motivated Community Manager to help us grow and engage our community across different channels. You will be responsible for facilitating community communication and support. Therefore, we are looking for candidates who have great communication skills in English, and in-depth experience with community engagement, social media, email marketing, and customer support.
 
 As part of our team you will work together with a group of talented professionals in our **<<<< EDIT LOCATION >>>>** hacklab and interact with some of the brightest minds in the blockchain tech space on unique and challenging ideas. You will also be actively participating in open discussions and brainstorming sessions.
 
