@@ -1,8 +1,8 @@
 ## First and Foremost
 
-We are a distributed team exploring the applications and implications of blockchain technology in the context of freedom of expression, collective memory and privacy for a better Web. 
+We are a distributed team exploring the applications and implications of blockchain technology in the context of freedom of expression, collective memory and privacy for a better Web. With this in mind, we are looking for passionate people interested in going beyond the scope of a single, narrow, job position and happy to help on multiple fronts.
 
-With this in mind, we are looking for passionate people interested in going beyond the scope of a single, narrow, job position and happy to help on multiple fronts. We recommend you to apply to this opening only if you are a person who will wholeheartedly enjoy:
+We recommend you to apply to this opening only if you are a person who will wholeheartedly enjoy:
 
 - Facing the epic challenge(s) of creating blockchain-based products; 
 - Finding your way in a complex environment. Pushing beyond comfort zone(s);
