@@ -1,22 +1,10 @@
-# Key Performance Indicators (KPI)
+# OKRs: Objectives and Key Results
 
-* [What is a KPI?](#what-is-a-kpi)
-* [How to define a KPI](#how-to-define-a-kpi)
-* [How to improve a KPI](#how-to-improve-a-kpi)
-* [Indicators](#indicators)
-* [Measure vs. metric](#measure-vs-metric)
+## What are OKRs?
 
-## What is a KPI?
+OKR is an abbreviation for Objective & Key Result. The concept was invented at the Intel Corporation and is widely used amongst the biggest technology companies in the world.
 
-A key performance indicator (KPI) is a type of performance measurement.
-
-* A KPI evaluates the success of an organization or activity.
-* Choosing the right KPIs needs good understanding of what is important to the organization.
-
-Success examples:
-
-* Repeated periodic achievement of an operational goal, such as 100% customer satistfaction, or zero defects, etc.
-* Making progress toward strategic goals.
+OKRs are meant to set strategy and goals over a specified amount of time for an organization and teams. At the end of that amount of time, the OKRs provide a reference to evaluate how well we did in executing our objectives.
 
 ## How to define a KPI
 
