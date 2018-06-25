@@ -28,8 +28,7 @@ Feel free to skip everything else and jump directly to [CONTRIBUTING](https://gi
 - [About AKASHA](https://github.com/AkashaProject/PM/blob/master/handbook/sections/about-akasha.md)
 - AKASHA Manifesto
 - [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/handbook/sections/CONTRIBUTING.md)
-- [Communication, Community](https://github.com/AkashaProject/PM/blob/master/handbook/sections/communication-community.md)
-- [Communication, Core Team](https://github.com/AkashaProject/PM/blob/master/handbook/sections/communication-core-team.md)
+- [Communication](https://github.com/AkashaProject/PM/blob/master/handbook/sections/communication.md)
 - How We Work
 - [Tools We Use](https://github.com/AkashaProject/PM/blob/master/handbook/sections/tools-we-use.md)
 - [Design & Prototyping](https://github.com/AkashaProject/PM/blob/master/handbook/sections/design-prototyping.md)

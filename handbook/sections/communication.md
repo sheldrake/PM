@@ -1,6 +1,16 @@
-# Communication Core Team
+# Communication
 
-## General Guidelines
+## Community Communication
+
+- Return users inquiries ASAP, no matter how big or small the matter.
+- Listen to users and seek to understand their point of view, no matter how vocal they may be.
+- Be proactive in reaching out about potential issues versus waiting for the community to act first.
+- Over-communicate as often as possible to ensure both AKASHA and the community are always on the same page.
+- Always be appreciative.
+
+## Internal Communication (Core Team)
+
+### General Guidelines
 
 - Communicate proactively! 
 - All work information, including discussions and decisions, should flow through our communication and documentation tools only, in order to give everyone equal easy and systmatic access to it.
@@ -9,7 +19,7 @@
 - During your working hours, your Discord status should be either `Online` or `Do Not Disturb` , so your colleagues know you're around in case they need to get in touch with you. 
 - Default to public channels: when in doubt, always post a message where all the core team can read it. Keep everyone updated on stuff that is not private!
  
-## Preferred Communication Methods
+### Preferred Communication Methods
 
 - Communicate proactively! 
 - To ask or discuss general topics, the appropriate Discord channel is your best option.
@@ -17,7 +27,7 @@
 - Avoid using emails. We believe that discussions over emails are counterproductive. 
 - Definitively avoid even more sending and replying emails to multiple people and group email address, e.g. everyone@email.com. 
 
-## Embrace Asynchronous
+### Embrace Asynchronous
 
 - When you ping someone, go ahead and give that person all the context they’ll need in order to get back to you when they can (e.g., no need to message “Hi Mihai!” and then wait for a reply before saying more). Do include links, docs, your deadline or desired response time, anything that can move the conversation forward asynchronously.
 - Whenever possible, reply waiting messages by the end of your workday at the latest.
