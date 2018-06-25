@@ -6,62 +6,25 @@ OKR is an abbreviation for Objective & Key Result. The concept was invented at t
 
 OKRs are meant to set strategy and goals over a specified amount of time for an organization and teams. At the end of that amount of time, the OKRs provide a reference to evaluate how well we did in executing our objectives.
 
-## How to define a KPI
+Eeffective OKRs are widely shared and meant to be understood by teams and individuals. They can serve as a communication framework for directing groups to solve complex challenges with constraints. As a communication tool, OKRs bring two key things to an organization:
 
-To define a KPI, you can cover these areas:
+- Easily digestible direction such that every member in the organization understands how they contribute to the mission; aka focus.
+- Expectations amongst teams and their individual members; aka accountability.
 
-* Title: use an exact name to avoid ambiguity
-* Objective: the relation of the indicator with the organizational objectives must be clear
-* Scope: state the areas of business and/or parts of the organization that are included and/or excluded.
-* Target: Benchmarks must be determined in order to monitor progress
-* Formula: the exact calculation of the indicator
-* Units: what is/are the unit(s) of measurement in use
-* Frequency: when is the indicator recorded and reported
-* Data source: the exact data sources involved in calculating a indicator value
-* Owner: the accountable person for the indicator
-* Comments: any outstanding issues regarding the indicator
+### Objectives
 
-## How to improve a KPI
+Any initiative has an objective. The goal of setting an objective is to write out what you hope to accomplish such that at a later time you can easily tell if you have reached, or have a clear path to reaching, that objective.
 
-To improve a KPI, you can ask these questions:
+Choosing the right objectives is one of the hardest things to do and requires a great deal of thinking and courage to do well.
 
-* Does it clearly define what constitutes success?
-* Does it clearly relate to a strategic objective and key result (OKR)?
-* Does it provide the information required to set SMART goals?
-* Does it accurately portray progress and probability of achieving both long-term strategic objectives and near-term milestones?
-* Does it identify the root causes of barriers?
-* Does it focus the organization on the priority improvement needs?
-* Does it drive the behavior and actions required to achieve the objectives?
-* Does it align work with value?
+### Key Results
 
-## Indicators
+Assuming your Objectives are well thought through, Key Results are the secret sauce to using OKRs. Key Results are numerically-based expressions of success or progress towards an Objective.
 
-* Quantitative indicators: can be presented with a number.
-* Qualitative indicators: can't be presented as a number.
-* Leading indicators: predict the outcome of a process
-* Lagging indicators: present the success or failure post hoc
-* Input indicators: measure the amount of resources consumed during the generation of the outcome
-* Process indicators: represent the efficiency or the productivity of the process
-* Output indicators: reflect the outcome or results of the process activities
-* Practical indicators: interface with existing company processes.
-* Directional indicators: specifying how something is changing, such as getting better or worse.
-* Actionable indicators: sufficiently in an organization's control to effect change.
-* Financial indicators: used in performance measurement and when looking at an operating index.
+The important element here is measuring success. It’s not good enough to make broad statements about improvement (that are subjectively evaluated). We need to know how well you are succeeding. Qualitative goals tend to under-represent our capabilities because the solution tends to be the lowest common denominator.
 
-## Measure vs. metric
-
-There is overlap between a measure and a metric.
-
-* A measures are concrete, usually measure one thing, and are quantitative in nature (e.g. I have five apples).
-
-* A metric describe a quality and require a measurement baseline (I have five more apples than I did yesterday).
-
-Examples:
-
-* A measure can be useful for demonstrating workloads and activity
-
-* A metric can be useful for evaluating compliance, processes effectiveness, and measuring success against established objectives.
+e.g If I create a goal to “launch new training for the sales team” I might do that for one sales member. If I alternatively make a Key Result of “train 50 sales team members” and only train 10, I’ve still 10x-ed my original goal.
 
 --- 
 
-##### Forked and adapted from multple places, including [domenicosolazzo/awesome-okr](https://github.com/joelparkerhenderson/key_performance_indicator) and [oelparkerhenderson/key_performance_indicator](https://github.com/domenicosolazzo/awesome-okr)
+##### Forked and adapted from multiple sources, including [oelparkerhenderson/key_performance_indicator](https://github.com/domenicosolazzo/awesome-okr)
