@@ -6,10 +6,7 @@ OKR is an abbreviation for Objective & Key Result. The concept was invented at t
 
 OKRs are meant to set strategy and goals over a specified amount of time for an organization and teams. At the end of that amount of time, the OKRs provide a reference to evaluate how well we did in executing our objectives.
 
-Eeffective OKRs are widely shared and meant to be understood by teams and individuals. They can serve as a communication framework for directing groups to solve complex challenges with constraints. As a communication tool, OKRs bring two key things to an organization:
-
-- Easily digestible direction such that every member in the organization understands how they contribute to the mission; aka focus.
-- Expectations amongst teams and their individual members; aka accountability.
+Eeffective OKRs are widely shared and meant to be understood by teams and individuals. They serve as a communication framework for directing groups to solve complex challenges with constraints. 
 
 ### Objectives
 
