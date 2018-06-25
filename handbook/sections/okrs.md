@@ -12,7 +12,7 @@ Eeffective OKRs are widely shared and meant to be understood by teams and indivi
 
 Any initiative has an objective. The goal of setting an objective is to write out what you hope to accomplish such that at a later time you can easily tell if you have reached, or have a clear path to reaching, that objective.
 
-Choosing the right objectives is one of the hardest things to do and requires a great deal of thinking and courage to do well.
+Choosing the right objectives is one of the hardest things to do and requires a great deal of thinking and courage.
 
 ### Key Results
 
@@ -24,4 +24,4 @@ e.g If I create a goal to “launch new training for the sales team” I might d
 
 --- 
 
-##### Forked and adapted from multiple sources, including [oelparkerhenderson/key_performance_indicator](https://github.com/domenicosolazzo/awesome-okr)
+##### Forked and adapted from multiple sources, including [domenicosolazzo/awesome-okr](https://github.com/domenicosolazzo/awesome-okr)

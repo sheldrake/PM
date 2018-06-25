@@ -2,7 +2,7 @@
 
 Guidelines to define OKRs.
 
-## PART 01: The Big Picture
+## First: the big picture
 
 1. **What is your company mission?** 
    - You should already have a mission. 
@@ -27,7 +27,7 @@ Guidelines to define OKRs.
     -Does it tie together everyone’s efforts?
 
 
-## PART 02: For each group/function, i.e. marketing, engineering, product, design
+## Then: for each group/function, i.e. marketing, engineering, product, design
 
 1. **What Objective and three Key Results will you set to support the company OKR?**
 2. Check:
