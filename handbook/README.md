@@ -34,6 +34,7 @@ Feel free to skip everything else and jump directly to [CONTRIBUTING](https://gi
 - [Tools We Use](https://github.com/AkashaProject/PM/blob/master/handbook/sections/tools-we-use.md)
 - [Design & Prototyping](https://github.com/AkashaProject/PM/blob/master/handbook/sections/design-prototyping.md)
 - [Dev Process Overview](https://github.com/AkashaProject/PM/blob/master/handbook/sections/dev-process-overview.md)
+- [Objectives and Key Results](https://github.com/AkashaProject/PM/blob/master/handbook/sections/okrs.md)
 - Our Rituals
 - [AKASHA Weekly Devs Meeting](https://github.com/AkashaProject/PM/blob/master/handbook/sections/akasha-weekly-devs.md)
 - [Application Security](https://github.com/AkashaProject/PM/blob/master/handbook/sections/application-security.md)
