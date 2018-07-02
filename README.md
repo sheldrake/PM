@@ -2,6 +2,9 @@
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AkashaProject/dapp/issues)   
 
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/AkashaProject/PM.svg?columns=all)](https://waffle.io/AkashaProject/PM)
+
+
 ## About AKASHA 
 
 AKASHA is a decentralized social media network powered by the [Ethereum](https://www.ethereum.org/) world computer and embedded into the [Inter-Planetary File System](https://ipfs.io/) :rocket:

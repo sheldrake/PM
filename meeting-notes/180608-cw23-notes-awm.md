@@ -2,7 +2,7 @@
 ## Jun 08 2018
 ### [Streaming](https://appear.in/akashaproject)
 ### Attendees
-@kenshyx @bogdanbrezuica @SeverS @quininez @42piratas    
+@kenshyx @bogdanbrezuica @SeverS @quininez @42piratas 
 
 ## Highlights
 
